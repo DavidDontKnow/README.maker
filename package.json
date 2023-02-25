@@ -1,0 +1,22 @@
+{
+  "name": "readme.maker",
+  "version": "1.0.0",
+  "description": "A README.md generator used to create quick and quality README files for all your projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidDontKnow/README.maker.git"
+  },
+  "author": "David Gutierrez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DavidDontKnow/README.maker/issues"
+  },
+  "homepage": "https://github.com/DavidDontKnow/README.maker#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
