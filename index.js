@@ -45,7 +45,7 @@ const questions = [
     {
         type: "input",
         name: "usage",
-        message: "What is the usage of this repo?",
+        message: "How do you use this repo?",
     },
     {
         type: "input",
